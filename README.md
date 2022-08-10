@@ -13,3 +13,4 @@
 | 0586  | Customer Placing the Largest Number of Orders | [Markdown](./src/0586.Customer-Placing-the-Largest-Number-of-Orders/0586.Customer-Placing-the-Largest-Number-of-Orders.md)            | Easy       | count(\*), group by   | No    |
 | 0595  | Big Countries                                 | [Markdown](./src/0595.Big-Countries/0595.Big-Countries.md)                                                                            | Easy       | Union, case, exists() | No    |
 | 0596  | Classes More Than 5 Students                  | [Markdown](./src/0596.Classes-More-Than-5-Students/0596.Classes-More-Than-5-Students.md)                                              | Easy       | Union, case, exists() | No    |
+| 0596  | Sales Person                                  | [Markdown](./src/0607.Sales-Person/0607.Sales-Person.md)                                                                              | Easy       | left join, in()       | YES   |
